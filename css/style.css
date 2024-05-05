@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .titles {
+    margin-bottom: 2rem;
+  }
+  .result {
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+  }
+  .input {
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+  }
